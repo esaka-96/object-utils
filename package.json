@@ -1,0 +1,32 @@
+{
+  "name": "object-utils",
+  "version": "1.0.0",
+  "description": "TS & Js Utility Library for object manipulation",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esaka-96/object-utils.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "object",
+    "utils",
+    "utility"
+  ],
+  "author": "Taner Topaç",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esaka-96/object-utils/issues"
+  },
+  "homepage": "https://github.com/esaka-96/object-utils#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.13",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  }
+}
