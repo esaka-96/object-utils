@@ -7,3 +7,5 @@ export function isObject(obj: any) {
 }
 
 export * from './mapping';
+export * from './reducing';
+
